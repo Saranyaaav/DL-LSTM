@@ -38,9 +38,9 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
+### Name: SARANYA V
 
-### Register Number:
+### Register Number: 212223040188
 
 ```python
 class BiLSTMTagger(nn.Module):
@@ -77,10 +77,11 @@ def train_model(model, train_loader, test_loader, loss_fn, optimizer, epochs=3):
 
 ## Loss Vs Epoch Plot
 
-Include your plot here
+<img width="710" height="565" alt="image" src="https://github.com/user-attachments/assets/07264f1f-3425-4256-b615-2f3d3789ed96" />
 
 ### Sample Text Prediction
-Include your sample text prediction here
+<img width="378" height="456" alt="image" src="https://github.com/user-attachments/assets/b393d060-ec58-4f36-b719-ac1d01a54074" />
+
 
 ## RESULT
 Include your result here
